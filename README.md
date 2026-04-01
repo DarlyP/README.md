@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://github.com/DarlyP/README.md/blob/main/snapedit_1715371703612.jpeg" alt="Banner">
+<img src="https://github.com/DarlyP/DarlyP/blob/main/Wallpaper.png" alt="Banner">
 
 <h2 align="left">👨‍💻 About Me:</h2>
 
@@ -45,16 +45,16 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarlyP&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlyP&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<h2 align="left">🔥 Streak Stats:</h2>
-
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarlyP&theme=radical" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarlyP&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarlyP&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">🌐 Connect with me:</h2>
 
