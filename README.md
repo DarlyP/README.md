@@ -46,8 +46,8 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarlyP&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlyP&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DarlyP&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlyP&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <h2 align="left">🔥 Streak Stats:</h2>
